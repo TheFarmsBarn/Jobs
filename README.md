@@ -35,4 +35,4 @@ All experience levels welcome. Come work at The Farm! Work alongside standardbre
 - Laid back working environment, located on a 450 acre farm
 - Paired programming — tasks are owned by the team, not an individual
 
-[Apply](https://github.com/TheFarmsBarn/Jobs/issues/new?title=HireMe&body=Why)
+[Let us know you are interested](https://github.com/TheFarmsBarn/Jobs/issues/new?title=HireMe&body=Why)
