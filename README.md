@@ -1,6 +1,6 @@
 # Career Opportunities at The Farm
 
-## Developer
+## Full-Time Developer
 
 While working at The Farm Ventures, you will assist in creating mobile games, apps and contribute ideas that shape the direction of our company.
 
